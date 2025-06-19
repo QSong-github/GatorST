@@ -17,7 +17,7 @@
 - 
 
 ## Usage  
-
+First, specify the hyper-parameters (e.g., number of epochs, batch size) in the file train.py. Then run the following command:
 ```bash
 python train.py
 ```
