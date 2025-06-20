@@ -14,12 +14,15 @@
 - pandas : 2.2.3
 
 ## Datasets
-- 
+- LIBD Human Dorsolateral Prefrontal Cortex (DLPFC)  : http://research.libd.org/spatialLIBD/
+- Human Breast Cancer : https://support.10xgenomics.com/spatial-gene-expression/datasets
+- Mouse Brain Tissue  : https://support.10xgenomics.com/spatial-gene-expression/datasets
 
 ## Usage  
 First, specify the hyper-parameters (e.g., number of epochs, batch size) in the file train.py. Then run the following command:
 ```bash
 python train.py
 ```
+
 
 ## Citation
