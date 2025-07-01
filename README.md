@@ -28,11 +28,6 @@
 └── result.json        # Evaluation results output
 ```
 
-Install requirements via:
-```bash
-pip install -r requirements.txt
-```
-
 ## Usage
 
 To train and evaluate on spatial transcriptomics datasets:
