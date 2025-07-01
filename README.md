@@ -44,9 +44,9 @@ Ensure your `.h5ad` data files are located in the `data/` directory.
 - Final clustering results and metrics saved in `result.json`
 
 ## Datasets
-- LIBD Human Dorsolateral Prefrontal Cortex (DLPFC)  : http://research.libd.org/spatialLIBD/
-- Human Breast Cancer : https://support.10xgenomics.com/spatial-gene-expression/datasets
-- Mouse Brain Tissue  : https://support.10xgenomics.com/spatial-gene-expression/datasets
+- LIBD Human Dorsolateral Prefrontal Cortex (DL: http://research.libd.org/spatialLIBD/
+- Human Breast Cancer: https://www.10xgenomics.com/datasets/human-breast-cancer-block-a-section-1-1-standard-1-1-0
+- Mouse Brain Tissue: https://www.10xgenomics.com/datasets/mouse-brain-serial-section-1-sagittal-anterior-1-standard-1-1-0
 
 ## Usage  
 First, specify the hyper-parameters (e.g., number of epochs, batch size) in the file train.py. Then run the following command:
